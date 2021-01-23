@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MyTestProg.MyTestJavaAppTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2020-11-11T19:54:34" hostname="Jessicas-MacBook-Pro.local" time="0.052">
+  <properties/>
+  <testcase name="testEuclidSubtractionIterative1" classname="MyTestProg.MyTestJavaAppTest" time="0.026"/>
+  <testcase name="testEuclidDivisionRestIterative" classname="MyTestProg.MyTestJavaAppTest" time="0.004"/>
+  <testcase name="testCreateSieveOfEratosthenes2" classname="MyTestProg.MyTestJavaAppTest" time="0.001"/>
+  <testcase name="testSieveOfEratosthenes1" classname="MyTestProg.MyTestJavaAppTest" time="0.001"/>
+  <testcase name="testEuclidDivisionRestRecursive1" classname="MyTestProg.MyTestJavaAppTest" time="0.009"/>
+  <testcase name="testEuclidDivisionRestRecursive2" classname="MyTestProg.MyTestJavaAppTest" time="0.001"/>
+  <testcase name="testEuclidSubstractionRecursive" classname="MyTestProg.MyTestJavaAppTest" time="0.0"/>
+  <testcase name="testEuclidSubtractionIterative" classname="MyTestProg.MyTestJavaAppTest" time="0.003"/>
+  <testcase name="testSieveOfEratosthenes" classname="MyTestProg.MyTestJavaAppTest" time="0.002"/>
+  <testcase name="testEuclidDivisionRestRecursive" classname="MyTestProg.MyTestJavaAppTest" time="0.0"/>
+  <system-out><![CDATA[Ergebnis: 1000
+Ergebnis: 948
+Ergebnis: 896
+Ergebnis: 844
+Ergebnis: 792
+Ergebnis: 740
+Ergebnis: 688
+Ergebnis: 636
+Ergebnis: 584
+Ergebnis: 532
+Ergebnis: 480
+Ergebnis: 428
+Ergebnis: 376
+Ergebnis: 324
+Ergebnis: 272
+Ergebnis: 220
+Ergebnis: 168
+Ergebnis: 116
+Ergebnis: 64
+Ergebnis: 12
+Ergebnis: 8
+Ergebnis: 4
+30
+20
+10
+10
+-1
+-1
+Ergebnis: 12
+Ergebnis: 6
+2 
+3 
+5 
+7 
+6
+6
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
